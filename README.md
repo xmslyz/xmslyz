@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @xmslyz
-- 👀 I’m interested in learning Python coding
-- 🌱 I’m currently learning how to add 1 + 1 :P
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 learning Python & Java
+- 🌱 
+- 💞️ 
+- 📫 How to reach me? Twitter -> @xmslyz
 
 <!---
 xmslyz/xmslyz is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
