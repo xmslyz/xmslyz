@@ -1,7 +1,9 @@
 - 👋 Hi, I’m @xmslyz
 - 👀 learning Python & Java
+<!--
 - 🌱 
-- 💞️ 
+- 💞️
+-->
 - 📫 How to reach me? Twitter -> @xmslyz
 
 <!---
